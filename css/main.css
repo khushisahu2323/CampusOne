@@ -1,0 +1,26 @@
+@import url("variables.css");
+@import url("reset.css");
+@import url("../pages/splash/splash.css");
+@import url("typography.css");
+@import url("../components/button/button.css");
+@import url("../pages/login/login.css");
+@import url("../components/input/input.css");
+@import url("../components/background/background.css");
+@import url("../components/live-header/live-header.css");
+@import url("../components/auth-card/auth-card.css");
+@import url("../components/link/link.css");
+
+body{
+
+    background:var(--background);
+
+    color:var(--text);
+
+    font-family:"Inter",sans-serif;
+
+    overflow-x:hidden;
+    overflow-y:auto;
+
+    margin:0;
+
+}
