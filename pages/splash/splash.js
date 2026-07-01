@@ -5,7 +5,7 @@ export function SplashScreen() {
         <section class="splash">
 
             <img
-                src="/CampusOne/logo/logo.png"
+                src="assets/logo/logo.png"
                 alt="CampusOne Logo"
                 class="logo-image"
             >
