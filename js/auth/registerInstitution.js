@@ -2,7 +2,7 @@ import {
 
     validateInstitutionInfoStep
 
-} from "../../validation/registerInstitutionValidation.js";
+} from "../validation/registerInstitutionValidation.js";
 
 import { generateInstitutionCode } from "../utils/institutionCode.js";
 
