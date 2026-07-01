@@ -1,4 +1,4 @@
-import { RegisterInstitutionPage } from "./pages/register-institution/register-institution.js";
+import { RegisterInstitutionPage } from "../pages/register-institution/register-institution.js";
 import { ForgotPasswordPage } from "../pages/forgot-password/forgot-password.js";
 import { initLogin } from "./auth/login.js";
 import { registerRoute, navigate } from "./router.js";
