@@ -31,7 +31,7 @@ export function RegisterPage() {
             <div class="login-hero">
 
                 <img
-                    src="/CampusOne/logo/logo.png"
+                    src="assets/logo/logo.png"
                     alt="CampusOne Logo"
                     class="login-logo"
                 >
